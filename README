@@ -9,10 +9,9 @@ An unobstrusive image lightbox that requires no configuration.
 * No admin links
 * No pro version
 
-This lightbox plugin is wraps imagelightbox (www.osvaldas.info) by Osvaldas Valutis into a plugin
+This lightbox plugin  wraps the excellent imagelightbox (www.osvaldas.info) jQuery script by Osvaldas Valutis into a WordPress plugin
 
 
-Contributors: Sean Mullen <sean@mullen.net.au>
 
 License: MIT
 License URI: http://opensource.org/licenses/MIT
