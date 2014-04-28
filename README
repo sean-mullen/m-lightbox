@@ -1,20 +1,9 @@
-* M:Lightbox
-Description: An unobstrusive image lightbox that requires no configuration.
-Contributors: Sean Mullen <sean@mullen.net.au>
-Donate link: http://www.mullen.net.au/
-Tags: lightbox
-Requires at least: 
-Tested up to: 3.9
-Stable tag: 
-License: MIT
-License URI: http://opensource.org/licenses/MIT
+# M:Lightbox
 
+An unobstrusive image lightbox that requires no configuration.
 
+## Features
 
-== Description ==
-m:lightbox is a modern, minimal lightbox. Insert links to images/image attachments into posts and pages and the image will be displayed in a lightbox automatically.**
-
-Features:
 * Fully-responsive image lightbox
 * No configurable options
 * No admin links
@@ -22,10 +11,8 @@ Features:
 
 This lightbox plugin is wraps imagelightbox (www.osvaldas.info) by Osvaldas Valutis into a plugin
 
-== Installation ==
-1. Install and activate
 
-== Changelog ==
+Contributors: Sean Mullen <sean@mullen.net.au>
 
-= 1.0 =
-* Initial release
+License: MIT
+License URI: http://opensource.org/licenses/MIT
